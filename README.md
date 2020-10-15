@@ -34,4 +34,8 @@ you to use JupyterLab's extensions and widgets functionality.
 
 For a more complete demo of JupyterLab using Binder, see the
 [JupyterLab Demo](https://github.com/jupyterlab/jupyterlab-demo). 
+
+
+
+Вот [сылка на Binder](https://notebooks.gesis.org/binder/jupyter/user/voland62-mypylab-suwy8ftr/lab#Cool), который однажды работал
  
